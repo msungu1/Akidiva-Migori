@@ -65,7 +65,7 @@
      background-color:whitesmoke;
     width: 40%;
     padding: 0;
-    height: 125vh;
+    /* height: 125vh; */
     display: flex;
     /* display:inline; */
      justify-content: center;
