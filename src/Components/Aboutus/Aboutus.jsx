@@ -1,6 +1,15 @@
 import React from "react";
 import "./Aboutus.css";
 import hosi36 from './../../assets/hosi36.jpg';
+import hosi21 from './../../assets/hosi21.jpg';
+import hosi20 from './../../assets/hosi20.jpg';
+import hosi16 from './../../assets/hosi16.jpg';
+import hosi29 from './../../assets/hosi29.jpg';
+import hosi37 from './../../assets/hosi37.jpg';
+import hosi30 from './../../assets/hosi30.jpg';
+
+
+
 
 
 function Aboutus() {
@@ -50,6 +59,7 @@ function Aboutus() {
         </div>
         <div className="container item2">
           <div className="image">
+            
             <img src={hosi36} alt="" />
           </div>
           <div className="services">
@@ -64,7 +74,106 @@ function Aboutus() {
   </div>
           </div>
         </div>
-        <div className="container item3"></div>
+        <div className="container item3">
+          <h2>Our Team</h2>
+          <div className="team">
+            <div className="grids itemone">
+              <div className="imagess">
+              <img src={hosi29} alt="" />
+
+              </div>
+            </div>
+            <div className="grids itemtwo">
+              <div className="imagess">
+                <img src={hosi20} alt="" />
+              </div>
+            </div>
+
+            <div className="grids itemthree">
+              <div className="imagess">
+              <img src={hosi16} alt="" />
+
+              </div>
+            </div>
+
+            <div className="grids itemfour">
+              <div className="imagess">
+              <img src={hosi21} alt="" />
+ 
+              </div>
+            </div>
+
+            <div className="grids itemfive">
+              <div className="imagess">
+              <img src={hosi37} alt="" />
+
+              </div>
+            </div>
+
+            <div className="grids itemsix">
+              <div className="imagess">
+              <img src={hosi30} alt="" />
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div className="facilities">
+          <h2>OUR FACILITIES AND SERVICES</h2>
+          <div className="facility">
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+
+            <div className="facilityimg">
+              <h3></h3>
+ <img src="" alt="" />
+            </div>
+          </div>
+        </div>
       </div>
     
   );
