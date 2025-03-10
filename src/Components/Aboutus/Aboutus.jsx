@@ -7,6 +7,18 @@ import hosi16 from './../../assets/hosi16.jpg';
 import hosi29 from './../../assets/hosi29.jpg';
 import hosi37 from './../../assets/hosi37.jpg';
 import hosi30 from './../../assets/hosi30.jpg';
+import hosi13 from './../../assets/hosi13.jpg';
+import hosi26 from './../../assets/hosi26.jpg';
+import hosi18 from './../../assets/hosi18.jpg';
+import hosi34 from './../../assets/hosi30.jpg';
+import private1 from './../../assets/private1.jpg';
+import lab3 from './../../assets/lab3.jpg';
+import hosi17 from './../../assets/hosi17.jpg';
+import lab2 from './../../assets/lab2.jpg';
+import hosi19 from './../../assets/hosi19.jpg';
+
+
+
 
 
 
@@ -124,48 +136,48 @@ function Aboutus() {
           <h2>OUR FACILITIES AND SERVICES</h2>
           <div className="facility">
             <div className="facilityimg">
-              <h3></h3>
- <img src="" alt="" />
+              <h3>Outpatients</h3>
+ <img src={hosi13} alt="" />
             </div>
 
             <div className="facilityimg">
               <h3></h3>
- <img src="" alt="" />
+ <img src={hosi26} alt="" />
             </div>
 
             <div className="facilityimg">
               <h3></h3>
- <img src="" alt="" />
+ <img src={hosi18} alt="" />
             </div>
 
             <div className="facilityimg">
               <h3></h3>
- <img src="" alt="" />
+ <img src={hosi34} alt="" />
             </div>
 
             <div className="facilityimg">
               <h3></h3>
- <img src="" alt="" />
+ <img src={private1} alt="" />
             </div>
 
             <div className="facilityimg">
               <h3></h3>
- <img src="" alt="" />
+ <img src={lab3} alt="" />
             </div>
 
             <div className="facilityimg">
               <h3></h3>
- <img src="" alt="" />
+ <img src={hosi17} alt="" />
             </div>
 
             <div className="facilityimg">
               <h3></h3>
- <img src="" alt="" />
+ <img src={lab2} alt="" />
             </div>
 
             <div className="facilityimg">
               <h3></h3>
- <img src="" alt="" />
+ <img src={hosi19} alt="" />
             </div>
 
             <div className="facilityimg">
